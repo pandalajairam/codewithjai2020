@@ -1,0 +1,86 @@
+INFO  com.logsfortest.base.Driver - Getting the classes list
+INFO  com.logsfortest.base.BaseClass - Inside the BeforeClass method in the BaseClass class
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.test.Test1 - In Before class Test1
+INFO  com.logsfortest.test.Test1 - Logging from Test1-1
+INFO  com.logsfortest.test.Test1 - Logging from Test1-2
+INFO  com.logsfortest.test.Test1 - Logging from Test1-3
+INFO  com.logsfortest.test.Test1 - Logging from Test1-4
+INFO  com.logsfortest.test.Test1 - Logging from Test1-5
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
+INFO  com.logsfortest.base.BaseClass - Logging in main log
+INFO  com.logsfortest.base.BaseClass - calling utility method
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - Inside the BeforeClass method in the BaseClass class
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-2
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-3
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-4
+INFO  com.logsfortest.base.BaseClass - Logging from Test2_1-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test2_1-2
+INFO  com.logsfortest.base.BaseClass - Logging from Test2_1-3
+INFO  com.logsfortest.base.BaseClass - Logging from Test2_1-4
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
+INFO  com.logsfortest.base.BaseClass - Logging in main log
+INFO  com.logsfortest.base.BaseClass - calling utility method
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - Inside the BeforeClass method in the BaseClass class
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.base.BaseClass - In Before Testcase1
+ERROR com.logsfortest.base.BaseClass - Logging from Test1-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test1-2
+WARN  com.logsfortest.base.BaseClass - Logging from Test1-3
+FATAL com.logsfortest.base.BaseClass - Logging from Test1-5
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
+INFO  com.logsfortest.base.BaseClass - Logging in main log
+INFO  com.logsfortest.base.BaseClass - calling utility method
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - Inside the BeforeClass method in the BaseClass class
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-2
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-3
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-4
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-5
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.Main3 - Logging from Main3-1
+INFO  com.logsfortest.base.Main3 - Logging from Main3-2
+INFO  com.logsfortest.base.Main3 - Logging from Main3-3
+INFO  com.logsfortest.base.Main3 - Logging from Main3-4
+INFO  com.logsfortest.base.Main3 - Logging from Main3-5
+INFO  com.logsfortest.base.Main4 - Logging from Main4-1
+INFO  com.logsfortest.base.Main4 - Logging from Main4-2
+INFO  com.logsfortest.base.Main4 - Logging from Main4-3
+INFO  com.logsfortest.base.Main4 - Logging from Main4-4
+INFO  com.logsfortest.base.Main4 - Logging from Main4-5
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
+INFO  com.logsfortest.base.BaseClass - Logging in main log
+INFO  com.logsfortest.base.BaseClass - calling utility method
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - Inside the BeforeClass method in the BaseClass class
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.test.Test3 - In Before class Test3
+INFO  com.logsfortest.test.Test3 - Logging from Test3-1
+INFO  com.logsfortest.test.Test3 - Logging from Test3-2
+INFO  com.logsfortest.test.Test3 - Logging from Test3-3
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
+INFO  com.logsfortest.base.BaseClass - Logging in main log
+INFO  com.logsfortest.base.BaseClass - calling utility method
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - Inside the BeforeClass method in the BaseClass class
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.base.BaseClass - Logging from Test4-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test4-2
+INFO  com.logsfortest.base.BaseClass - Logging from Test4-3
+INFO  com.logsfortest.base.BaseClass - Logging from Test4-4
+INFO  com.logsfortest.base.BaseClass - Logging from Test5-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test5-2
+INFO  com.logsfortest.base.BaseClass - Logging from Test5-3
+INFO  com.logsfortest.base.BaseClass - In the try block testApp5 method in the Test4 class
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
+INFO  com.logsfortest.base.BaseClass - Logging in main log
+INFO  com.logsfortest.base.BaseClass - calling utility method
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class

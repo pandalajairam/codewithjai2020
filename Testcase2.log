@@ -1,0 +1,18 @@
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-2
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-3
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-4
+INFO  com.logsfortest.base.BaseClass - Logging from Test2-5
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.Main3 - Logging from Main3-1
+INFO  com.logsfortest.base.Main3 - Logging from Main3-2
+INFO  com.logsfortest.base.Main3 - Logging from Main3-3
+INFO  com.logsfortest.base.Main3 - Logging from Main3-4
+INFO  com.logsfortest.base.Main3 - Logging from Main3-5
+INFO  com.logsfortest.base.Main4 - Logging from Main4-1
+INFO  com.logsfortest.base.Main4 - Logging from Main4-2
+INFO  com.logsfortest.base.Main4 - Logging from Main4-3
+INFO  com.logsfortest.base.Main4 - Logging from Main4-4
+INFO  com.logsfortest.base.Main4 - Logging from Main4-5
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file

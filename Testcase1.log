@@ -1,0 +1,8 @@
+INFO  com.logsfortest.base.BaseClass - inside baseclass @Before Annotation after 2nd appender
+INFO  com.logsfortest.base.BaseClass - In Before Testcase1
+ERROR com.logsfortest.base.BaseClass - Logging from Test1-1
+INFO  com.logsfortest.base.BaseClass - Logging from Test1-2
+WARN  com.logsfortest.base.BaseClass - Logging from Test1-3
+FATAL com.logsfortest.base.BaseClass - Logging from Test1-5
+INFO  com.logsfortest.base.UtilityClass - Logger from utility class
+INFO  com.logsfortest.base.BaseClass - inside tear down of testcase log file
